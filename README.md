@@ -147,8 +147,6 @@ df=pd.DataFrame(data)
 df
 ```
 
-
-# Result
  <img width="887" height="590" alt="image" src="https://github.com/user-attachments/assets/46249ecd-84ff-47c2-95ca-5e369b7f1456" />
 <img width="726" height="570" alt="image" src="https://github.com/user-attachments/assets/c1e9ec10-73fe-4581-8f78-5a75158b147a" />
 <img width="697" height="172" alt="image" src="https://github.com/user-attachments/assets/554bf17e-8b84-435f-820f-f806a1e8655f" />
